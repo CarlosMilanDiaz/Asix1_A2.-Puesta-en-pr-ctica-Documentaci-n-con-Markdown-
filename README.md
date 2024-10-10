@@ -1,9 +1,11 @@
 # Asix1_A2.-Puesta-en-pr-ctica-Documentaci-n-con-Markdown-
 
 1. ¿Qué es una página web?
+
 Un sitio web está formado por un conjunto de archivos que son accesibles a través de la red y se representan por medio de un lenguaje.
 
 2. ¿Que es un servidor web?
+
 Un servidor web es un programa informático que procesa una aplicación del lado del servidor
 
 3. ¿Qué son los lenguajes de marcas? ¿Cuántos conoces?. 
@@ -36,6 +38,7 @@ El Lenguaje de Marcado de Hipertexto (HTML) es el código que se utiliza para es
 ```
 
 5. ¿Que es ```CSS```?
+    
     CSS es un lenguaje informático especializado en definir y cohesionar la presentación de un documento escrito en un lenguaje de marcadocomo HTML o XML.
 
 6. ¿Sabes cómo funciona un navegador web? Describe brevemente el proceso que se sigue para visualizar una página web.:
