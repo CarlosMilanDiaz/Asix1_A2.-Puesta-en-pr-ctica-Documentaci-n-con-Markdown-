@@ -9,7 +9,9 @@ Un servidor web es un programa informático que procesa una aplicación del lado
 3. ¿Qué son los lenguajes de marcas? ¿Cuántos conoces?. 
 
 Los lenguajes de marcas son sistemas de notación utilizados para definir la estructura y presentación de los contenidos de un documento.
+
 |Lenguaje|Documentacion|
+|----------|:-------------------|------------------------|
 |HTML|[HTML](https://developer.mozilla.org/es/docs/Web/HTML)|
 |XML|[XML](https://developer.mozilla.org/es/docs/Web/XML/XML_introduction)|
 |Markdown|[Markdown](https://www.markdownguide.org/getting-started/)|
